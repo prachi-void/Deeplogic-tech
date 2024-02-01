@@ -51,7 +51,7 @@ Make a GET request to http://127.0.0.1:5000/getTimeStories to retrieve the lates
 Example using cURL:
 
 ```bash
-curl http://127.0.0.1:5000/getTimeStories
+curl http://127.0.0.1:5000/getTimeStories```
 
 
 Using inbuilt.py (BeautifulSoup Implementation)
